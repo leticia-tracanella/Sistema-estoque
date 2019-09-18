@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Excel&apos;" deleteContents="false" description="Delete resource &apos;Excel&apos;" element1="/Excel" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1565112218580"/>&#x0A;<refactoring comment="Delete resource &apos;SistemaTotal&apos;" deleteContents="false" description="Delete resource &apos;SistemaTotal&apos;" element1="/SistemaTotal" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1565212750495"/>
+</session>
